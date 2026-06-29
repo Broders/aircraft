@@ -12,6 +12,7 @@
 
 ## 2020.16.0
 
+1. [A380X/OIT] Restart FLT OPS startup sequence after laptop power loss - @HendersonTyler (Tyler Henderson)
 1. [A32NX/TCAS] Improve PFD Resolution Advisory graphics, introduce TCAS bus - @lukecologne (luke)
 
 ## 2020.15.0
